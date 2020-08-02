@@ -1,0 +1,122 @@
+{
+  "categorias": [
+    {
+      "titulo": "Anfíbios",
+      "cor": "#B0B009",
+      "link_extra": {
+        "text": "Quer saber o que sapo e CSS tem a ver?",
+        "url": "https://flexboxfroggy.com/#pt-br"
+      },
+      "videos": [
+        {
+          "titulo": "Aventura Selvagem - Universo dos Anfíbios",
+          "url": "https://www.youtube.com/watch?v=TeRyJ1cNpt4"
+        },
+        {
+          "titulo": "7 Ranas Más Venenosas Y Peligrosas Del Mundo",
+          "url": "https://www.youtube.com/watch?v=Vzmm2xF_FZo"
+        },
+        {
+          "titulo": "O Mundo Secreto dos Jardins - 31 - Anuros",
+          "url": "https://www.youtube.com/watch?v=wZ8SiLxDul0"
+        },
+        {
+          "titulo": "Wild Discovery: curiosidades salvajes",
+          "url": "https://www.youtube.com/watch?v=3jdlRleaabc"
+        },
+        {
+          "titulo": "Aventura Selvagem - Universo dos Anfíbios 27/07/13 - Parte 1",
+          "url": "https://www.youtube.com/watch?v=5GwBhbeTz-c"
+        },
+        {
+          "titulo": "5 Rãs Mais Venenosas do Mundo",
+          "url": "https://www.youtube.com/watch?v=HIPEsrkBEwU"
+        }        
+      ]
+    },
+    {
+      "titulo": "Marinhos",
+      "cor": "#201f5b",
+      "link_extra": {
+        "text": "Uma verdadeira imersão"
+      },
+      "videos": [
+        {
+          "titulo": "Tubarões - O maior predador dos mares - documentário de animais DUBLADO",
+          "url": "https://www.youtube.com/watch?v=kR_ObizjU0s"
+        },
+        {
+          "titulo": "Documentário Orcas- os predadores mais temidos dos oceanos",
+          "url": "https://www.youtube.com/watch?v=Gz3xVs1wiI8"
+        },
+        {
+          "titulo": "11 Criaturas Mais Surpreendentes da Fossa das Marianas",
+          "url": "https://www.youtube.com/watch?v=SIFS4gpfUuw"
+        },
+        {
+          "titulo": "LOS COLORES DEL AGUA - Documental Naturaleza HD 1080p - Grandes Documentales",
+          "url": "https://www.youtube.com/watch?v=sfWqabJ-bcE"
+        },
+        {
+          "titulo": "El maravilloso mundo de los crustáceos",
+          "url": "https://www.youtube.com/watch?v=pDlaS6xIjx0"
+        }        
+      ]
+    },
+    {
+      "titulo": "Répteis",
+      "cor": "#5F12B0",
+      "link_extra": {
+        "text": "Rápidos e rasteiros!"
+      },
+      "videos": [
+        {
+          "titulo": "Indonésia Selvagem Ep. 05 HD - Animal Planet",
+          "url": "https://www.youtube.com/watch?v=auWnXli71GA"
+        },
+        {
+          "titulo": "Quando Éramos Répteis - documentário dublado em português",
+          "url": "https://www.youtube.com/watch?v=KcUoxOE2Ie8"
+        },
+        {
+          "titulo": "Répteis que Você VAI QUERER ter em Casa",
+          "url": "https://www.youtube.com/watch?v=_lPa1E1FkzI"
+        },
+        {
+          "titulo": "Historias da Vida na Terra - Ep.4 - Repteis",
+          "url": "https://www.youtube.com/watch?v=5gm8S8R8cvk"
+        },
+        {
+          
+          "titulo": "Documentario Animal - O Mundo das Cobras",
+          "url": "https://www.youtube.com/watch?v=j7SOdbc7ZDw"
+        }
+      ]
+    },
+    {
+      "titulo": "Insetos",
+      "cor": "#12B09D",
+      "link_extra": {
+        "text": "Aqui os bugs estão liberados"
+      },
+      "videos": [
+        {
+          "titulo": "Documentário Br - O Mundo Dos Insetos",
+          "url": "https://www.youtube.com/watch?v=McmJgnfrlq4"
+        },
+        {
+          "titulo": "Documentário: Instintos de Sobrevivência - Insetos incríveis",
+          "url": "https://www.youtube.com/watch?v=D1oEOdpfQw4"
+        },
+        {
+          "titulo": "As Aranhas incríveis da natureza",
+          "url": "https://www.youtube.com/watch?v=B8xhWHRYjEc"
+        },
+        {
+          "titulo": "Kung Fu Mantis Vs Jumping Spider | Life Story | BBC",
+          "url": "https://www.youtube.com/watch?v=7wKu13wmHog"
+        }
+      ]
+    }
+  ]
+}
