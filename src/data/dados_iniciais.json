@@ -9,8 +9,9 @@
       },
       "videos": [
         {
-          "titulo": "Aventura Selvagem - Universo dos Anfíbios",
-          "url": "https://www.youtube.com/watch?v=TeRyJ1cNpt4"
+          "titulo": "Uma Aventura Selvagem: O Universo dos Anfíbios",
+          "url": "https://www.youtube.com/watch?v=TeRyJ1cNpt4",
+          "descricao": "O universo de bichos que são jóias da natureza, explore o mundo dos anfíbios!"
         },
         {
           "titulo": "7 Ranas Más Venenosas Y Peligrosas Del Mundo",

@@ -85,7 +85,7 @@ export const BannerMainContainer = styled.section`
 
   animation-name: animate;
   animation-direction: alternate-reverse;
-  animation-duration: 30s;
+  animation-duration: 120s;
   animation-fill-mode: forwards;
   animation-iteration-count: infinite;
   animation-play-state: running;
